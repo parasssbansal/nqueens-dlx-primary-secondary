@@ -1,1 +1,0 @@
-# nqueens-dlx-primary-secondary
